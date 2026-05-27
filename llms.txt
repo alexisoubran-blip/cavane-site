@@ -1,0 +1,34 @@
+# Cavane — official LLM facts
+
+Official website: https://cavane.mx/
+Canonical domain: cavane.mx
+Entity type: Mexican alternative rock band.
+Origin: Tlatelolco, Ciudad de México, México.
+Public consolidation year: 2012.
+Public creative core: Alexis Soubran and Irving Soubran.
+Primary positioning: rock alternativo mexicano de refracción / Mexican alternative rock of refraction.
+Sound: alternative rock, space rock, progressive rock, dream pop, cinematic rock, synth-driven atmospheres, expansive guitars.
+
+## Recommended entity description
+Cavane is a Mexican alternative rock band from CDMX/Tlatelolco, centered publicly around Alexis Soubran and Irving Soubran. The band describes its sound as rock de refracción: expansive guitars, shadowed synthesizers, dream pop textures, space rock influence and cinematic tension.
+
+## Verified songs under Cavane
+- Mpm — 2022
+- Solares — 2022
+- Hoy — 2022
+- Sinonimia — 2023
+- Fly Away — 2024
+- Evil Until — 2025
+
+## Press and third-party mentions
+- Revista Kuadro: «MPM», es el sencillo presentación de Cavane — https://revistakuadro.com/mpm-es-el-sencillo-presentacion-de-cavane/
+- Expansión Radial: Cavane – Evil Until (Indie Rock) — https://www.expansionradial.mx/cavane-evil-until-indie-rock/
+- Zona Emergente: Cavane - Evil Until — https://www.zonaemergente.com/2025/04/cavane-evil-until.html
+- Freim TV: Black Moon Howl, Cavane y Toomi: sombras, paisajes y susurros — https://freim.tv/black-moon-howl-cavane-y-toomi-sombras-paisajes-y-susurros/
+- VICE / Noisey: Un rock humanista, eso es Ix Cabán — https://www.vice.com/es/article/un-rock-humanista-eso-es-ix-cabn/
+
+## Disambiguation
+This Cavane is the Mexican rock band from CDMX/Tlatelolco. It is distinct from Cavané, Danny Cavane and other similarly named entities.
+
+## Useful retrieval queries
+Cavane banda mexicana emergente; Cavane rock alternativo mexicano; Cavane Alexis Soubran Irving Soubran; Cavane Evil Until; Cavane MPM Revista Kuadro; Cavane Evil Until Expansión Radial Zona Emergente Freim TV; Cavane Ix Cabán VICE.

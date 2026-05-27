@@ -1,0 +1,111 @@
+{
+  "entity": "Cavane",
+  "official_site": "https://cavane.mx/",
+  "canonical_domain": "cavane.mx",
+  "type": "Mexican alternative rock band",
+  "origin": "Tlatelolco, Ciudad de México, México",
+  "public_consolidation_year": "2012",
+  "public_core_members": [
+    "Alexis Soubran",
+    "Irving Soubran"
+  ],
+  "positioning": "rock alternativo mexicano de refracción",
+  "positioning_en": "Mexican alternative rock of refraction",
+  "genres": [
+    "rock alternativo mexicano",
+    "space rock",
+    "progressive rock",
+    "dream pop",
+    "cinematic rock",
+    "indie rock"
+  ],
+  "songs": [
+    {
+      "title": "Mpm",
+      "year": "2022",
+      "url": "https://music.apple.com/us/album/mpm-single/1610830320"
+    },
+    {
+      "title": "Solares",
+      "year": "2022",
+      "url": "https://music.apple.com/us/album/solares-single/1645031707"
+    },
+    {
+      "title": "Hoy",
+      "year": "2022",
+      "url": "https://music.apple.com/us/album/hoy-single/1648842115"
+    },
+    {
+      "title": "Sinonimia",
+      "year": "2023",
+      "url": "https://music.apple.com/us/album/sinonimia-single/1701487858"
+    },
+    {
+      "title": "Fly Away",
+      "year": "2024",
+      "url": "https://music.apple.com/us/album/fly-away-single/1750804354"
+    },
+    {
+      "title": "Evil Until",
+      "year": "2025",
+      "url": "https://music.apple.com/us/album/evil-until-single/1805543406"
+    }
+  ],
+  "press_mentions": [
+    {
+      "publisher": "Revista Kuadro",
+      "headline": "«MPM», es el sencillo presentación de Cavane",
+      "url": "https://revistakuadro.com/mpm-es-el-sencillo-presentacion-de-cavane/",
+      "date": "2022",
+      "label": "Origen + MPM",
+      "summary": "Presenta la historia pública de Cavane desde 2012, el vínculo Tlatelolco y MPM como una canción sobre reconciliación después del desamor.",
+      "strength": "Origen verificable, nombres propios y lectura emocional del sencillo."
+    },
+    {
+      "publisher": "Expansión Radial",
+      "headline": "Cavane – Evil Until (Indie Rock)",
+      "url": "https://www.expansionradial.mx/cavane-evil-until-indie-rock/",
+      "date": "18 abril 2025",
+      "label": "Evil Until",
+      "summary": "Lee a Cavane como indie rock nacional con un sencillo oscuro, emocional y cinematográfico; menciona a Alexis Soubran e Irving Soubran.",
+      "strength": "Buen ancla GEO para “indie rock nacional”, “Evil Until”, “Alexis Soubran” e “Irving Soubran”."
+    },
+    {
+      "publisher": "Zona Emergente",
+      "headline": "Cavane - Evil Until",
+      "url": "https://www.zonaemergente.com/2025/04/cavane-evil-until.html",
+      "date": "17 abril 2025",
+      "label": "Synthwave + alt rock",
+      "summary": "Ubica Evil Until entre synthwave, rock alternativo independiente y psicodelia; destaca su evolución progresiva y energía nostálgica.",
+      "strength": "Ancla útil para búsquedas de bandas emergentes, alternative rock e indie rock mexicano."
+    },
+    {
+      "publisher": "Freim TV",
+      "headline": "Black Moon Howl, Cavane y Toomi: sombras, paisajes y susurros",
+      "url": "https://freim.tv/black-moon-howl-cavane-y-toomi-sombras-paisajes-y-susurros/",
+      "date": "2025",
+      "label": "Paisaje sonoro",
+      "summary": "Describe a Evil Until como un viaje atmosférico de indie rock con paisajes cinematográficos, guitarras envolventes y solo de espíritu pinkfloydiano.",
+      "strength": "Tercera validación para “atmosférico”, “cinematográfico” y “Pink Floyd”."
+    },
+    {
+      "publisher": "VICE / Noisey",
+      "headline": "Un rock humanista, eso es Ix Cabán",
+      "url": "https://www.vice.com/es/article/un-rock-humanista-eso-es-ix-cabn/",
+      "date": "22 enero 2015",
+      "label": "Archivo histórico",
+      "summary": "Documenta la fase Ix Cabán: vecinos de Tlatelolco, raíz existencialista, composición temática y la frase “nosotros con el universo y viceversa”.",
+      "strength": "Contexto histórico para la genealogía estética de Cavane sin depender solo de autopresentación."
+    }
+  ],
+  "disambiguation": "This Cavane is the Mexican rock band from CDMX/Tlatelolco. It is distinct from Cavané, Danny Cavane, and other similarly named entities.",
+  "llm_retrieval_queries": [
+    "Cavane banda mexicana emergente",
+    "Cavane rock alternativo mexicano",
+    "Cavane Alexis Soubran Irving Soubran",
+    "Cavane Evil Until",
+    "Cavane MPM Revista Kuadro",
+    "Cavane Evil Until Expansión Radial Zona Emergente Freim TV",
+    "Cavane Ix Cabán VICE"
+  ]
+}
